@@ -1,5 +1,50 @@
-# 💫 About Me:
-Ai Engineer building reliable pipelines + experimenting with AI products on the side. I like shipping fast, measuring results, and cutting anything that doesn’t move the needle.<br>About Me (fill these):<br><br><br>🚀 I’m currently working on: Data pipelines (Spark/Scala/Python, SQL) + a couple of AI automation tools for job search + small SaaS experiments.<br><br><br>🧑‍🤝‍🧑 I’m looking to collaborate on: Practical AI apps (RAG/agents), workflow automation (n8n/Zapier), and data platforms where performance + quality actually matter.<br><br><br>🤝 I’m looking for help with: UX/UI polish, go-to-market, and getting from “MVP works” → “people pay for it.”<br><br><br>🌱 I’m currently learning: System design for data platforms, production LLM apps (RAG, evals, monitoring), and cloud cost/perf optimization.<br><br><br>💬 Ask me about: Spark tuning, ETL/ELT design, data quality checks, GCP/AWS basics, Airflow patterns, and building scrappy MVPs.<br><br><br>⚡ Fun fact: I mix DJ sets at events—engineering by day, music by night.<br><br><br>If you want it to sound more “corporate LinkedIn” or more “startup builder,” tell me which vibe and I’ll rewrite it tighter.
+# 💫 About Me
+
+AI/ML Engineer passionate about building production-ready LLM applications, agentic AI systems, and scalable ML platforms. I enjoy turning complex AI ideas into reliable products, shipping fast, measuring impact, and continuously experimenting with new AI technologies outside of work.
+
+## 🚀 I'm currently working on
+
+* Building production-grade AI/ML systems using LangChain, LangGraph, LlamaIndex, AWS Bedrock, and OpenAI.
+* Developing AI-powered products including JobNinjas.ai and my conversational AI portfolio.
+* Exploring multi-agent workflows, RAG architectures, voice AI, and automation with n8n.
+
+## 🤝 I'm looking to collaborate on
+
+* Agentic AI systems
+* RAG and knowledge retrieval platforms
+* AI developer tools
+* Open-source AI projects
+* Production LLM applications and workflow automation
+
+## 💡 I'm looking for help with
+
+* Scaling AI products to production
+* Startup growth and go-to-market strategies
+* AI product design and user experience
+* Building products developers genuinely love
+
+## 🌱 I'm currently learning
+
+* Advanced AI agent orchestration
+* AI evaluation frameworks and observability
+* Large-scale MLOps
+* AI infrastructure optimization
+* Latest advances in multimodal and reasoning models
+
+## 💬 Ask me about
+
+* LangChain & LangGraph
+* RAG architectures
+* Multi-agent systems
+* LLM application development
+* FastAPI & AI APIs
+* Python, Spark & Airflow
+* AWS Bedrock, SageMaker & Vertex AI
+* MLOps, model deployment & AI system design
+
+## ⚡ Fun fact
+
+Outside of engineering, I run a DJ business and perform at weddings and events—building AI systems during the week and creating unforgettable experiences through music on the weekends.
 
 
 ## 🌐 Socials:
